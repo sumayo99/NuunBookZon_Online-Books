@@ -29,7 +29,7 @@ You can register and login with any user credentials to access general features.
 
 Admin Email: cademaan5@gmail.com
 Admin Password: 12345
-Please note that these admin credentials are reserved for specific administrative tasks. For regular usage, feel free to register and log in with any user credentials of your choice.
+Please note that these admin credentials are reserved for specific administrative tasks. 
 
 Thank you!
 
