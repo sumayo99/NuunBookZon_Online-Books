@@ -15,3 +15,23 @@ Welcome to NuunBookZon, your ultimate destination for online book reading! Immer
 ![11](https://github.com/sumayo99/NuunBookZon_Online-Books/assets/88512032/a261b79e-f57e-499a-bf7b-841b41f8f4f1)
 ![12](https://github.com/sumayo99/NuunBookZon_Online-Books/assets/88512032/c09224ac-ba52-445b-a7e3-b9b66bd25236)
 
+
+## Technologies Used
+
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB , mongoose
+
+
+##Registration and Login Instructions
+
+You can register and login with any user credentials to access general features. However, for administrative privileges and special access, please use the following credentials:
+
+Admin Email: cademaan5@gmail.com
+Admin Password: 12345
+Please note that these admin credentials are reserved for specific administrative tasks. For regular usage, feel free to register and log in with any user credentials of your choice.
+
+Thank you!
+
+
+
